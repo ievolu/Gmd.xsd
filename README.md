@@ -1,0 +1,2 @@
+# Gmd.xsd
+G.Ogr
